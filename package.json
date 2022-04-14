@@ -38,7 +38,6 @@
         "@types/jest": "^27.0.2",
         "@typescript-eslint/eslint-plugin": "4.33.0",
         "@typescript-eslint/parser": "4.33.0",
-        "bitecs": "^0.3.21-13",
         "boxen": "^6.2.0",
         "directory-tree": "^3.0.0",
         "esbuild": "^0.13.4",
@@ -54,6 +53,7 @@
         "uplot": "^1.6.16"
     },
     "dependencies": {
-        "sloc": "^0.2.1"
+        "sloc": "^0.2.1",
+        "bitecs": "^0.3.21-13"
     }
 }
