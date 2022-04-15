@@ -1,2 +1,0 @@
-export declare function CompareColorMatrix(srcMatrix: Float32Array, srcOffset: Float32Array, targetMatrix: Float32Array, targetOffset: Float32Array): boolean;
-//# sourceMappingURL=CompareColorMatrix.d.ts.map

@@ -1,2 +1,0 @@
-export declare function UpdateWorldTransform(id: number, parentID: number, cx: number, cy: number, cright: number, cbottom: number, forceUpdate: boolean, parentIsDisplayList: boolean): void;
-//# sourceMappingURL=UpdateWorldTransform.d.ts.map
